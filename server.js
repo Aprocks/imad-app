@@ -55,7 +55,6 @@ function createTemplate(data)
         </title>
         <meta name="viewport" conten="width=device-width,initial-scale=1"/>
         <link href="/ui/style.css" rel="stylesheet" />
-        <img src="https://cdn.pixabay.com/photo/2017/01/06/19/15/soap-bubble-1958650_960_720.jpg" />
     </head>  
     <body>
     <div class="container">
